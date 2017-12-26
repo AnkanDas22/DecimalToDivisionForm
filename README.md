@@ -1,4 +1,6 @@
-# DecimalToDivisionForm1.0Easily convert decimal numbers to numerator upon denominator form or division form!
+# DecimalToDivisionForm1.0
+
+Easily convert decimal numbers to numerator upon denominator form or division form!
 
 Fully compiled and built application executable!
 
